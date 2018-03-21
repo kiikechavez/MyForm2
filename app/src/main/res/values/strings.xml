@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="pick_date">Fecha</string>
+    <string-array name="ciudades_array">
+        <item>Medellin</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Santa Marta</item>
+        <item>Cartagena</item>
+        <item>Sincelejo</item>
+        <item>Ibagué</item>
+        <item>Pasto</item>
+        <item>Otra ciudad</item>
+    </string-array>
+</resources>
